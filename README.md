@@ -1,4 +1,5 @@
-# How to run the program
+# How to run the program please
+# Please click on the pencil edit button to view the correct format and orientation
 The server folder is to be located on the RPi and the client folder on the control station PC
 
 To run server:
